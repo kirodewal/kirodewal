@@ -13,6 +13,15 @@ I always try to make new & usefull bots for telegram users...
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Kirodewal&show_icons=true&include_all_commits=true)](https://github.com/Kirodewal/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&layout=compact)](https://github.com/Kirodewal/github-readme-stats)
 
+
+<a href="https://github.com/kirodewal/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirodewal&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/kirodewal/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirodewal&repo=convoychat" />
+</a>
+
+
 - 🔭 I’m currently working on 'Telegram Bots'
 - 🌱 I’m currently learning 'Python, JavaScript'
 - 👯 I’m looking to collaborate on 'Specide'
