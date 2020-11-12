@@ -14,16 +14,7 @@ I always try to make new & usefull bots for telegram users...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&layout=compact)](https://github.com/Kirodewal/github-readme-stats)
 
 
-<a href="https://github.com/kirodewal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirodewal&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/kirodewal/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kirodewal&repo=convoychat" />
-</a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kirodewal)](https://github.com/kirodewal/github-readme-stats)
 
 
-- 🔭 I’m currently working on 'Telegram Bots'
-- 🌱 I’m currently learning 'Python, JavaScript'
-- 👯 I’m looking to collaborate on 'Specide'
-- 🤔 I’m looking for help with 'Auto Post Forwarder Bot' ...
-- ⚡ Fun fact: 'Not Thinked'
+
