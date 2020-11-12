@@ -14,7 +14,5 @@ I always try to make new & usefull bots for telegram users...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&layout=compact)](https://github.com/Kirodewal/github-readme-stats)
 
 
-[![kirodewal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kirodewal)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
