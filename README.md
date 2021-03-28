@@ -11,14 +11,14 @@ I always try to make new & usefull bots for telegram users...
    Please support me to achieve my goals 🙂😉..</p>
 ## Some of my Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&theme=highcontrast)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirodewal&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirodewal&show_icons=true&count_private=true&theme=highcontrast)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kirodewal)  
 
-![GitHub metrics](https://metrics.lecoq.io/Kirodewal)  
+![GitHub metrics](https://metrics.lecoq.io/Kirodewal&theme=highcontrast)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kirodewal)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kirodewal&theme=highcontrast)  
 
 ![Profile views](https://gpvc.arturio.dev/Kirodewal)  
