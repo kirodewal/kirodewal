@@ -13,8 +13,6 @@ I always try to make new & usefull bots for telegram users...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&theme=highcontrast&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kirodewal)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirodewal&show_icons=true&count_private=true&theme=highcontrast)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kirodewal)  
