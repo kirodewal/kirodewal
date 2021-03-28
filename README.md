@@ -17,7 +17,7 @@ I always try to make new & usefull bots for telegram users...
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kirodewal)  
 
-![GitHub metrics](https://metrics.lecoq.io/Kirodewal&theme=highcontrast)  
+![GitHub metrics](https://metrics.lecoq.io/Kirodewal)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kirodewal&theme=highcontrast)  
 
