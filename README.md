@@ -11,9 +11,7 @@ I always try to make new & usefull bots for telegram users...
    Please support me to achieve my goals 🙂😉..</p>
 ## Some of my Github Stats
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kirodewal)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kirodewal)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -26,5 +24,3 @@ I always try to make new & usefull bots for telegram users...
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kirodewal)  
 
 ![Profile views](https://gpvc.arturio.dev/Kirodewal)  
-
-
