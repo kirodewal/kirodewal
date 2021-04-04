@@ -12,13 +12,8 @@ I always try to make new & usefull bots for telegram users...
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Kirodewal alt=Kirodewal /> </p>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Kirodewal&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/Kirodewal/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&layout=compact&theme=tokyonight)](https://github.com/Kirodewal/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&theme=highcontrast&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirodewal&show_icons=true&count_private=true&theme=highcontrast)  
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Kirodewal&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github.com/Kirodewal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&layout=compact&theme=highcontrast)](https://github.com/Kirodewal/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kirodewal)  
 
