@@ -10,6 +10,11 @@
 I always try to make new & usefull bots for telegram users...
    Please support me to achieve my goals 🙂😉..</p>
 ## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Kirodewal alt=Kirodewal /> </p>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Kirodewal&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/Kirodewal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&layout=compact&theme=tokyonight)](https://github.com/Kirodewal/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kirodewal&theme=highcontrast&layout=compact)
 
