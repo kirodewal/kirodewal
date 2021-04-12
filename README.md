@@ -20,4 +20,4 @@ I always try to make new & usefull bots for telegram users...
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kirodewal&theme=highcontrast)  
 
-![Profile views](https://gpvc.arturio.dev/Kirodewal)  
+  
